@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EtherScanApi/static/css/main.d2806787.css",
+    "main.js": "/EtherScanApi/static/js/main.1fdee79c.js",
+    "static/js/453.419a5d54.chunk.js": "/EtherScanApi/static/js/453.419a5d54.chunk.js",
+    "index.html": "/EtherScanApi/index.html",
+    "main.d2806787.css.map": "/EtherScanApi/static/css/main.d2806787.css.map",
+    "main.1fdee79c.js.map": "/EtherScanApi/static/js/main.1fdee79c.js.map",
+    "453.419a5d54.chunk.js.map": "/EtherScanApi/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2806787.css",
+    "static/js/main.1fdee79c.js"
+  ]
+}
